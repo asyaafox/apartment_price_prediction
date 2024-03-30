@@ -1,3 +1,4 @@
-# apartment_price_prediction
+# Аpartment price prediction
 
-ссылка на данные использованые в исследовании https://disk.yandex.ru/d/q1ZmManas6cH7Q
+Использовались данные о недвижимости в Москве и состоянии макро-экономики 2010-2015 годов.
+Ссылка на данные использованые в исследовании https://disk.yandex.ru/d/q1ZmManas6cH7Q
